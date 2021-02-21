@@ -1,0 +1,18 @@
+
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8°õÑÍô.
+‡
+java:S1319"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(şñİe8ª“ÁÍô.
+P
+java:S2864 "4Iterate over the "entrySet" instead of the "keySet".(›Œî	8¤²Îô.
+r	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ£Üóÿÿÿÿÿ8Ì’—Îô.
+N
+java:S1128",Remove this unused import 'javax.print.Doc'.(ö«‘™ıÿÿÿÿ8Ì’—Îô.
+c
+java:S11269"AReplace this if-then-else statement by a single return statement.(ÙğÙ—şÿÿÿÿ8áàµÍô.
+I
+java:S1068"'Remove this unused "map" private field.(‘¸æŠıÿÿÿÿ8³Ø¾Íô.
+m	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨À±Ú8ô¤–Îô.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8³Ø¾Íô.
+j	java:S116	"ORename this field "Heap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÛæI8‰ŞºÍô.

@@ -1,0 +1,68 @@
+
+u
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ßÖùõıÿÿÿÿ8™á™Îô.
+m
+java:S1450"WRemove the "docsPath" field and declare it as a local variable in the relevant methods.(‹ŸÂ
+N
+java:S1481°"+Remove this unused "scores" local variable.(«´µ÷úÿÿÿÿ8¦¾çËô.
+i
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(›¶Œ“
+]
+java:S1854°":Remove this useless assignment to local variable "scores".(«´µ÷úÿÿÿÿ8¦¾çËô.
+H
+java:S1172B"-Remove this unused method parameter "folder".(ª ãÂşÿÿÿÿ
+6
+java:S2129 " Remove this "String" constructor(éÃ‚Í
+W	java:S125…"<This block of commented-out lines of code should be removed.(€™úúøÿÿÿÿ
+g
+java:S2095/"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹®Ùœÿÿÿÿÿ
+S
+java:S5868m"8Extract 1 Grapheme Cluster(s) from this character class.(Êôöšıÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(±ğ»àûÿÿÿÿ
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¡Ö±µúÿÿÿÿ8ººÌô.
+W
+java:S1854©"@Remove this useless assignment to local variable "final_scores".(ÚôÈ³
+H
+java:S1144-"2Remove this unused private "readStopWords" method.(Ûñ«ç
+g
+java:S2095j"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹®Ùœÿÿÿÿÿ
+H
+java:S1128"2Remove this unused import 'java.security.KeyPair'.(üúì›
+g	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚôÈ³
+;
+java:S2129" Remove this "String" constructor(Û óÄøÿÿÿÿ
+g
+java:S2095E"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹®Ùœÿÿÿÿÿ
+6
+java:S2129" Remove this "String" constructor(÷ÀÛı
+–
+java:S1319®"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(ßÖùõıÿÿÿÿ8³ÓÁÎô.
+s
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š‘…ûıÿÿÿÿ8ÔòÎËô.
+S
+java:S5868H"8Extract 1 Grapheme Cluster(s) from this character class.(Êôöšıÿÿÿÿ
+G
+java:S1128",Remove this unused import 'javax.print.Doc'.(ö«‘™ıÿÿÿÿ
+o	java:S135’"YReduce the total number of break and continue statements in this loop to use at most one.(ÛŠÙš
+G
+java:S1481¯"*Remove this unused "stops" local variable.(•Ü—8¦¾çËô.
+„
+java:S1319€"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(›¶Œ“
+e
+java:S2184Ê"BCast one of the operands of this addition operation to a "double".(éâààıÿÿÿÿ8ÌÍÈÒô.
+e
+java:S2184Ê"BCast one of the operands of this division operation to a "double".(éâààıÿÿÿÿ8ÌÍÈÒô.
+`
+java:S2184’"BCast one of the operands of this division operation to a "double".( ç8ÌÍÈÒô.
+\
+java:S1155Á">Use isEmpty() to check whether the collection is empty or not.(ÀÏİí8ÌÍÈÒô.
+E
+java:S1604è"(Make this anonymous inner class a lambda(ß¡š8ÌÍÈÒô.
+w
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(î«´£8ÌÍÈÒô.
+|
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(öÀÃ´şÿÿÿÿ8ÌÍÈÒô.
+R
+java:S2864¶"4Iterate over the "entrySet" instead of the "keySet".(õö‚8ÌÍÈÒô.

@@ -1,0 +1,45 @@
+
+>
+java:S1170"!Make this final field static too.(½Â–ü8àÿËÒô.
+V
+java:S28648"4Iterate over the "entrySet" instead of the "keySet".(Ÿº¶Åÿÿÿÿÿ8¬áÀÎô.
+6
+java:S2129y" Remove this "String" constructor(ıĞ•
+6
+java:S2129_" Remove this "String" constructor(îéø
+;
+java:S2129" Remove this "String" constructor(•·Âµûÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(ÍÉ®6
+>
+java:S1604q"(Make this anonymous inner class a lambda(ê¥—â
+N
+java:S11976"8Move the array designator from the variable to the type.(şƒ‰„
+~	java:S116"bRename this field "NUMBER_OF_SHOWN_RESULTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Â–ü8àÿËÒô.
+>
+java:S1604W"(Make this anonymous inner class a lambda(§ÃŠê
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(“û×„ùÿÿÿÿ
+\
+java:S11923"FDefine a constant instead of duplicating this literal "Error" 3 times.(÷Ÿœı
+?
+java:S1604“"(Make this anonymous inner class a lambda(çÈ™³
+d
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+?
+java:S1604¾"(Make this anonymous inner class a lambda(áÖÙÆ
+P
+java:S1128	".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ÇªÀÎô.
+5
+java:S2129" Remove this "String" constructor(“¹ñ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(³Ù¹úÿÿÿÿ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(ÔáëÎ
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(â¯õ’
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(’Ãßıÿÿÿÿ
+C
+java:S1874ì",Remove this use of "show"; it is deprecated.(”ô¸ï
+6
+java:S2129" Remove this "String" constructor(çÄÑÚ
+V	java:S125C"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ
+Q	java:S125@"<This block of commented-out lines of code should be removed.(—ÇÉì
+=
+java:S1604-"(Make this anonymous inner class a lambda(õïD
